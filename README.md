@@ -70,7 +70,7 @@
     </td>
     <td>Solution de gestion de facturation pro.</td>
     <td>
-      <a href="hhttps://github.com/johanldx/Quickbee">
+      <a href="https://github.com/johanldx/Quickbee">
         <img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
