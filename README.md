@@ -3,7 +3,7 @@
 # Bienvenue sur mon GitHub 👋
 
 <p>
-Je suis Johan, développeur Full-Stack & Automation basé à
+Je suis Johan, Fullstack Product Engineer basé à
 <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 <b>Paris, France</b>.
 </p>
