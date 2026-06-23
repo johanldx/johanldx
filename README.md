@@ -1,4 +1,4 @@
-![Rootage Banner](https://rootage.fr/rootage-banner.png)
+![Rootage Banner](https://rootage.fr/og-image.png)
 
 # Bienvenue sur mon GitHub 👋
 
