@@ -32,9 +32,7 @@ Je suis Johan, Fullstack Product Engineer basé à
 
 ## 🚀 Rootage
 
-Je suis **co-fondateur** de **Rootage**.
-
-**L'INGENIERIE AU SERVICE DE VOS AMBITIONS.**
+Je suis **co-fondateur** et **Président** de **Rootage**.
 
 Rootage conçoit des solutions logicielles modernes pour combler le fosse entre l'ingenierie complexe et les experiences utilisateur elegantes.
 
@@ -52,7 +50,7 @@ Rootage conçoit des solutions logicielles modernes pour combler le fosse entre 
 ## 📚 Formation
 
 🎓 **ESGI Paris** - École Supérieure de Génie Informatique <br>
-📅 **Filière** : Ingénierie du Web (Bac+3 à Bac+5) <br>
+📅 **Filière** : Ingénierie du Web (Bac+5) <br>
 💻 **Spécialisations** : Développement Full-Stack, Cloud (AWS), DevOps
 
 ---
