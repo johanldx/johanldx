@@ -66,3 +66,5 @@ My background combines software engineering, systems, networking and cloud infra
 <a href="https://github.com/johanldx">
   <img src="https://img.shields.io/badge/GitHub-@johanldx-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+<img src="https://jhdx.dev/og.svg" />
